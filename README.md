@@ -1,0 +1,2 @@
+# eCommerce-Purchase-pandas
+In the following exercise is given some Fake Data about some purchases done through Amazon! Most of the tasks are solved in different ways. For the most part, the questions get progressively harder. Please excuse anything that doesn't make "Real-World" sense in the dataframe, all the data is fake and made-up. Also note that all of these questions can be answered with one line of code.
