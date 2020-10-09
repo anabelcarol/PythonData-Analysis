@@ -1,5 +1,5 @@
 # Purpose and Objetives
-The following Python code exercises have the their foundation on online training courses (https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp). The lecture is given by Jose Portilla (https://www.udemy.com/user/joseportilla/).
+The following Python code exercises have the their foundation on online training courses (https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp). The lecture was given by Jose Portilla (https://www.udemy.com/user/joseportilla/).
 
 The aim is simply upload python notebooks about use cases writen for getting experience and acquiring confidence with different domain knowledge. Most of the tasks can be solved with different methodologies.
 
